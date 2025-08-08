@@ -23,3 +23,7 @@ phpstan.neon
 .phpunit.result.cache
 /phpunit.xml
 ###< phpunit/phpunit ###
+
+###> PHPStorm ###
+.idea
+###< PHPStorm ###
